@@ -1,0 +1,11 @@
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\buttonGame\buttonGame\bin\Debug\buttonGame.exe.config
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\buttonGame\buttonGame\bin\Debug\buttonGame.exe
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\buttonGame\buttonGame\bin\Debug\buttonGame.pdb
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\buttonGame\buttonGame\obj\Debug\buttonGame.csproj.AssemblyReference.cache
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\buttonGame\buttonGame\obj\Debug\buttonGame.Form1.resources
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\buttonGame\buttonGame\obj\Debug\buttonGame.Form2.resources
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\buttonGame\buttonGame\obj\Debug\buttonGame.Properties.Resources.resources
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\buttonGame\buttonGame\obj\Debug\buttonGame.csproj.GenerateResource.cache
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\buttonGame\buttonGame\obj\Debug\buttonGame.csproj.CoreCompileInputs.cache
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\buttonGame\buttonGame\obj\Debug\buttonGame.exe
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\buttonGame\buttonGame\obj\Debug\buttonGame.pdb
